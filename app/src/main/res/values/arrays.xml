@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_items" >
+        <item>Uzbekistan</item>
+        <item>Pokistan</item>
+        <item>Tojikistan</item>
+        <item>USA</item>
+        <item>Japan</item>
+        <item>Korea</item>
+        <item>Portugaliya</item>
+        <item>Azarbaijan</item>
+        <item>Angliya</item>
+        <item>Shavetsariya</item>
+    </string-array>
+</resources>
